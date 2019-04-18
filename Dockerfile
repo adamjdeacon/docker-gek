@@ -10,6 +10,6 @@ LABEL \
   org.opencontainers.image.authors="Adam Deacon" \
   org.opencontainers.image.description="This docker image installs GCP SDK and kubectl" \
   org.opencontainers.image.licenses="MIT" \
-  org.opencontainers.image.source="https://github.com/tmaier/docker-compose" \
+  org.opencontainers.image.source="https://github.com/adamjdeacon/docker-gek" \
   org.opencontainers.image.title="Docker Compose on docker base image" \
-  org.opencontainers.image.version="${DOCKER_VERSION} with GCP SDK" 
+  org.opencontainers.image.version="${DOCKER_VERSION} with GCP SDK"
